@@ -1,6 +1,8 @@
 ---
-title: "Blog title"
+title: "URL Shortener with AWS Api Gateway"
 date: 2024-07-30
 ---
 
-post draft
+```hcl
+data "aws_region" "current" {}
+```
