@@ -11,7 +11,7 @@ For simple use cases where no logic will run in the API Gateway, the http type i
 
 ## What can be done with an AWS Rest API Gateway?
 
-![main](../assets/url_shortener_main.png)
+![main](/blog/assets/url_shortener_main.png)
 
 ```hcl
 data "aws_region" "current" {}
