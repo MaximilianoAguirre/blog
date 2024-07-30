@@ -1,3 +1,9 @@
+title: Personal blog
+
+author:
+  name: Maximiliano Aguirre
+  email: maximiliano.aguirre@outlook.es
+
 remote_theme: jekyll/minima
 
 minima:
