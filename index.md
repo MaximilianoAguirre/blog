@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Maxi's blog
 ---
 
+This is my blog
