@@ -3,7 +3,7 @@ title: Maximiliano Aguirre's blog
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized-dark
+  skin: dark
 
   social_links:
     - {
