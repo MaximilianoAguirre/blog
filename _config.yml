@@ -1,12 +1,5 @@
 title: Maximiliano Aguirre's blog
 
-author:
-  name: Maximiliano Aguirre
-  email: maximiliano.aguirre@outlook.es
-
-description: Blog dedicated to technical topics
-
-
 remote_theme: jekyll/minima
 
 minima:
