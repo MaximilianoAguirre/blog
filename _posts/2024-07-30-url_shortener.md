@@ -54,4 +54,3 @@ For non-proxy integration types, we will need to create the http request to be m
 ### Integration response
 
 The third part of the process is called integration response, and it represents the API gateway receiving the response from the external server. This part of the process must map different responses given by the server to responses sent to the client, represented mainly by the status code and content type received from the server and sent to the client. Status codes usually gives us information about the processing the server did and its result, and the `Content-Type` header have information about the format the content of the response have.
-

@@ -43,6 +43,9 @@ author:
       url: mailto:maximiliano.aguirre@outlook.es
       icon: fa-solid fa-envelope
 
+include:
+  - _pages
+
 defaults:
   # _posts
   - scope:
