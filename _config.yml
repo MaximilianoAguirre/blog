@@ -19,6 +19,9 @@ footer:
     - label: "Web"
       icon: "fas fa-fw fa-link"
       url: "https://maximilianoaguirre.com"
+    - label: Instagram
+      url: https://www.instagram.com/maxii3548/
+      icon: fa-brands fa-instagram
     - label: Mail
       url: mailto:maximiliano.aguirre@outlook.es
       icon: fa-solid fa-envelope

@@ -1,0 +1,42 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+// Scrollbar
+::-webkit-scrollbar {
+    width: 5x;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: $background-color;
+    border-radius: 1px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $primary-color;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: $primary-color;
+}
+
+/* Track below and above */
+::-webkit-scrollbar-track-piece {
+    background-color: transparent;
+}
+
+
+// Fonts
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
