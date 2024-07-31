@@ -1,8 +1,12 @@
 ---
-layout: posts
 title: "AWS Rest API Gateway - URL Shortener"
 date: 2024-07-30
 toc: true
+toc_sticky: true
+toc_label: Table of content
+tags:
+    - aws
+    - terraform
 ---
 
 AWS offers a managed service for API Gateway that comes in three flavours: http, rest and websocket. A common pattern of usage of these services are in combination with serverless services like Lambdas, DynamoDB tables, S3, etc. But the rest version of these service is more capable than most people think and using it just as a proxy to a lambda containing all the logic of execution is a waste of potential (and money).
