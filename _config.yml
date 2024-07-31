@@ -27,7 +27,6 @@ author:
   name: *name
   avatar: /assets/profile.jpg
   bio: Tech guy that loves extreme sports
-  location: Rosario, ARG
 
   links:
     - label: Linkedin
@@ -36,10 +35,13 @@ author:
     - label: Github
       url: https://github.com/MaximilianoAguirre
       icon: fa-brands fa-github
-    - label: "Web"
-      icon: "fas fa-fw fa-link"
+    - label: Website
+      icon: fas fa-fw fa-link
       url: "https://maximilianoaguirre.com"
-    - label: Mail
+    - label: Instagram
+      url: https://www.instagram.com/maxii3548/
+      icon: fa-brands fa-instagram
+    - label: Email
       url: mailto:maximiliano.aguirre@outlook.es
       icon: fa-solid fa-envelope
 
