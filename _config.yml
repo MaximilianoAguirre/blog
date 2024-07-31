@@ -2,7 +2,7 @@ title: Tech blog
 subtitle: by Maxi
 name: &name Maximiliano Aguirre
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: dark
 
 baseurl: /blog
@@ -62,3 +62,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
