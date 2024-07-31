@@ -1,17 +1,64 @@
-title: Maximiliano Aguirre's blog
+title: Tech blog
+subtitle: by Maxi
+name: &name Maximiliano Aguirre
 
-remote_theme: jekyll/minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: dark
 
-minima:
-  skin: dark
+baseurl: /blog
+enable_copy_code_button: true
 
-  social_links:
-    - platform: linkedin
-      user_url: https://www.linkedin.com/in/maximilianoaguirre/
-      title: Linkedin
-    - platform: github
-      user_url: https://github.com/MaximilianoAguirre
-      title: Github
-    - platform: mail
-      user_url: mailto:maximilianoaguirre@outlook.es
-      title: Mail
+footer:
+  links:
+    - label: Linkedin
+      url: https://www.linkedin.com/in/maximilianoaguirre
+      icon: fa-brands fa-linkedin
+    - label: Github
+      url: https://github.com/MaximilianoAguirre
+      icon: fa-brands fa-github
+    - label: "Web"
+      icon: "fas fa-fw fa-link"
+      url: "https://maximilianoaguirre.com"
+    - label: Mail
+      url: mailto:maximiliano.aguirre@outlook.es
+      icon: fa-solid fa-envelope
+
+author:
+  name: *name
+  avatar: /assets/profile.jpg
+  bio: Tech guy that loves extreme sports
+  location: Rosario, ARG
+
+  links:
+    - label: Linkedin
+      url: https://www.linkedin.com/in/maximilianoaguirre
+      icon: fa-brands fa-linkedin
+    - label: Github
+      url: https://github.com/MaximilianoAguirre
+      icon: fa-brands fa-github
+    - label: "Web"
+      icon: "fas fa-fw fa-link"
+      url: "https://maximilianoaguirre.com"
+    - label: Mail
+      url: mailto:maximiliano.aguirre@outlook.es
+      icon: fa-solid fa-envelope
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
