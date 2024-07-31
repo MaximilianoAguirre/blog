@@ -6,9 +6,12 @@ minima:
   skin: dark
 
   social_links:
-    - {
-        platform: linkedin,
-        user_url: "https://www.linkedin.com/in/maximilianoaguirre/",
-      }
-    - { platform: github, user_url: "https://github.com/MaximilianoAguirre" }
-    - { platform: mail, user_url: "mailto:maximilianoaguirre@outlook.es" }
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/maximilianoaguirre/
+      title: Linkedin
+    - platform: github
+      user_url: https://github.com/MaximilianoAguirre
+      title: Github
+    - platform: mail
+      user_url: mailto:maximilianoaguirre@outlook.es
+      title: Mail
