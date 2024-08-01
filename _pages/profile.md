@@ -11,7 +11,7 @@ page_css:
   - /assets/css/profile.css
 ---
 
-## Hi! 👋 and welcome to the nerdy part of my life. 
+## Howdy! 👋 and welcome to the nerdy part of my life. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/roles.svg" alt="roles" class="align-right" id="roles">
 
