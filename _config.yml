@@ -86,3 +86,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+
+# analytics
+analytics:
+  provider: google
+  google:
+    tracking_id: G-NNV2RH120Z
