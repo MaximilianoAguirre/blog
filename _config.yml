@@ -89,6 +89,6 @@ whitelist:
 
 # analytics
 analytics:
-  provider: google
+  provider: google-gtag
   google:
     tracking_id: G-NNV2RH120Z
