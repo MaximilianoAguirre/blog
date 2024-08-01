@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated with Wordclouds.com -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="600" height="600" viewBox="0 0 1024 1024" xml:space="preserve">
+<desc>Created @ WordClouds.com</desc>
+
+<style>
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCFPrEHJA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCMPrEHJA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCHPrEHJA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrEHJA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<rect x="0" y="0" width="1024" height="1024" fill="transparent" opacity="1" />
+<text transform="rotate(-24.180495112287115, 512, 512)" font-weight="400" fill="#eaeaea" opacity="1" x="512" y="548" font-family="Raleway" font-size="100px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(112.13234434003584, 444, 303)" font-weight="400" fill="#eaeaea" opacity="1" x="444" y="320" font-family="Helvetica" font-size="67.14930085276893px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(310.14461278922136, 715, 621)" font-weight="400" fill="#00adb5" opacity="1" x="715" y="673" font-family="Helvetica" font-size="196.28257172347838px" text-anchor="middle">DevOps</text>
+<text transform="rotate(343.3249883881422, 439, 655)" font-weight="400" fill="#00adb5" opacity="1" x="439" y="668.5" font-family="Helvetica" font-size="51.65330834828379px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(267.2428555960035, 296, 387)" font-weight="400" fill="#00adb5" opacity="1" x="296" y="414.5" font-family="Raleway" font-size="77.47996252242568px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(60.14635927516333, 595, 298)" font-weight="400" fill="#00adb5" opacity="1" x="595" y="311.5" font-family="Raleway" font-size="51.65330834828379px" text-anchor="middle">Developer</text>
+<text transform="rotate(-81.7906165084758, 199, 408)" font-weight="400" fill="#eaeaea" opacity="1" x="199" y="441" font-family="Helvetica" font-size="92.97595502691082px" text-anchor="middle">Frontend</text>
+<text transform="rotate(207.13650955685253, 700, 253)" font-weight="400" fill="#eaeaea" opacity="1" x="700" y="266.5" font-family="Helvetica" font-size="51.65330834828379px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(347.98981925379013, 441, 710)" font-weight="400" fill="#eaeaea" opacity="1" x="441" y="732.5" font-family="Helvetica" font-size="61.98397001794055px" text-anchor="middle">Backend</text>
+<text transform="rotate(102.86595591943058, 506, 413)" font-weight="400" fill="#7a8288" opacity="1" x="506" y="443" font-family="Helvetica" font-size="82.64529335725406px" text-anchor="middle">CTO</text>
+<text transform="rotate(287.22957747859397, 399, 267)" font-weight="400" fill="#eaeaea" opacity="1" x="399" y="285" font-family="Raleway" font-size="50px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(281.634221250021, 814, 669)" font-weight="400" fill="#00adb5" opacity="1" x="814" y="678.5" font-family="Raleway" font-size="33.574650426384466px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(193.07756347725052, 262, 772)" font-weight="400" fill="#eaeaea" opacity="1" x="262" y="798" font-family="Helvetica" font-size="98.14128586173919px" text-anchor="middle">DevOps</text>
+<text transform="rotate(328.32049657512476, 565, 559)" font-weight="400" fill="#eaeaea" opacity="1" x="565" y="565.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(27.006433064586677, 744, 199)" font-weight="400" fill="#00adb5" opacity="1" x="744" y="226.5" font-family="Raleway" font-size="77.47996252242568px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(229.0672697122522, 585, 370)" font-weight="400" fill="#00adb5" opacity="1" x="585" y="377" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(119.92577085733681, 743, 720)" font-weight="400" fill="#00adb5" opacity="1" x="743" y="736.5" font-family="Raleway" font-size="46.48797751345541px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-71.72171115024095, 122, 531)" font-weight="400" fill="#7a8288" opacity="1" x="122" y="544" font-family="Raleway" font-size="51.65330834828379px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(139.3060855145129, 608, 890)" font-weight="400" fill="#00adb5" opacity="1" x="608" y="912.5" font-family="Helvetica" font-size="61.98397001794055px" text-anchor="middle">Backend</text>
+<text transform="rotate(240.445897733069, 359, 903)" font-weight="400" fill="#7a8288" opacity="1" x="359" y="933" font-family="Helvetica" font-size="82.64529335725406px" text-anchor="middle">CTO</text>
+<text transform="rotate(30.915859993973694, 728, 129)" font-weight="400" fill="#00adb5" opacity="1" x="728" y="147" font-family="Helvetica" font-size="50px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(98.03455840704707, 358, 220)" font-weight="400" fill="#00adb5" opacity="1" x="358" y="229" font-family="Helvetica" font-size="33.574650426384466px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(163.67722672115883, 730, 861)" font-weight="400" fill="#eaeaea" opacity="1" x="730" y="873.5" font-family="Raleway" font-size="49.070642930869596px" text-anchor="middle">DevOps</text>
+<text transform="rotate(31.954102870986844, 683, 303)" font-weight="400" fill="#eaeaea" opacity="1" x="683" y="310" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-79.38338756066905, 452, 408)" font-weight="400" fill="#eaeaea" opacity="1" x="452" y="421.5" font-family="Raleway" font-size="38.73998126121284px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(267.8465403792665, 266, 469)" font-weight="400" fill="#eaeaea" opacity="1" x="266" y="475.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(150.50821077102248, 223, 194)" font-weight="400" fill="#00adb5" opacity="1" x="223" y="210.5" font-family="Helvetica" font-size="46.48797751345541px" text-anchor="middle">Frontend</text>
+<text transform="rotate(49.77217829775633, 669, 344)" font-weight="400" fill="#7a8288" opacity="1" x="669" y="351" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(227.1356500671877, 902, 599)" font-weight="400" fill="#7a8288" opacity="1" x="902" y="610" font-family="Helvetica" font-size="30.991985008970275px" text-anchor="middle">Backend</text>
+<text transform="rotate(342.5203793274799, 651, 941)" font-weight="400" fill="#00adb5" opacity="1" x="651" y="971" font-family="Helvetica" font-size="82.64529335725406px" text-anchor="middle">CTO</text>
+<text transform="rotate(207.78522862949654, 792, 271)" font-weight="400" fill="#00adb5" opacity="1" x="792" y="280" font-family="Helvetica" font-size="25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(147.34922569121662, 407, 620)" font-weight="400" fill="#00adb5" opacity="1" x="407" y="624.5" font-family="Raleway" font-size="16.787325213192233px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(67.15884722636959, 885, 684)" font-weight="400" fill="#00adb5" opacity="1" x="885" y="696.5" font-family="Helvetica" font-size="49.070642930869596px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-36.2120800959934, 247, 136)" font-weight="400" fill="#eaeaea" opacity="1" x="247" y="142.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(272.9981117150738, 844, 770)" font-weight="400" fill="#eaeaea" opacity="1" x="844" y="783.5" font-family="Raleway" font-size="38.73998126121284px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(252.11416409449382, 157, 648)" font-weight="400" fill="#00adb5" opacity="1" x="157" y="655" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(115.83856711435996, 122, 426)" font-weight="400" fill="#eaeaea" opacity="1" x="122" y="442.5" font-family="Raleway" font-size="46.48797751345541px" text-anchor="middle">Frontend</text>
+<text transform="rotate(72.34043248106745, 453, 918)" font-weight="400" fill="#eaeaea" opacity="1" x="453" y="925" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(208.31228270116833, 232, 839)" font-weight="400" fill="#eaeaea" opacity="1" x="232" y="850.5" font-family="Raleway" font-size="30.991985008970275px" text-anchor="middle">Backend</text>
+<text transform="rotate(244.3646051056518, 739, 550)" font-weight="400" fill="#eaeaea" opacity="1" x="739" y="565" font-family="Helvetica" font-size="41.32264667862703px" text-anchor="middle">CTO</text>
+<text transform="rotate(8.083394811527526, 515, 303)" font-weight="400" fill="#00adb5" opacity="1" x="515" y="308" font-family="Helvetica" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(351.36843701888273, 474, 750)" font-weight="400" fill="#00adb5" opacity="1" x="474" y="754.5" font-family="Helvetica" font-size="16.787325213192233px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(336.13735218818175, 605, 572)" font-weight="400" fill="#eaeaea" opacity="1" x="605" y="578.5" font-family="Raleway" font-size="24.535321465434798px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-71.45198821157776, 110, 358)" font-weight="400" fill="#7a8288" opacity="1" x="110" y="365" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-16.585417951729813, 509, 662)" font-weight="400" fill="#00adb5" opacity="1" x="509" y="669" font-family="Raleway" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(340.44294138925284, 462, 75)" font-weight="400" fill="#eaeaea" opacity="1" x="462" y="81.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(355.2418150590928, 303, 376)" font-weight="400" fill="#00adb5" opacity="1" x="303" y="384.5" font-family="Helvetica" font-size="23.243988756727706px" text-anchor="middle">Frontend</text>
+<text transform="rotate(215.3372831574349, 266, 889)" font-weight="400" fill="#eaeaea" opacity="1" x="266" y="895" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(174.20477641010876, 556, 457)" font-weight="400" fill="#7a8288" opacity="1" x="556" y="462.5" font-family="Helvetica" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(194.10547984955156, 509, 823)" font-weight="400" fill="#00adb5" opacity="1" x="509" y="837.5" font-family="Raleway" font-size="41.32264667862703px" text-anchor="middle">CTO</text>
+<text transform="rotate(300.5712606341444, 406, 482)" font-weight="400" fill="#00adb5" opacity="1" x="406" y="487" font-family="Helvetica" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(292.19906705534044, 763, 742)" font-weight="400" fill="#7a8288" opacity="1" x="763" y="746.5" font-family="Raleway" font-size="16.787325213192233px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(116.97308788400753, 922, 500)" font-weight="400" fill="#00adb5" opacity="1" x="922" y="506.5" font-family="Helvetica" font-size="24.535321465434798px" text-anchor="middle">DevOps</text>
+<text transform="rotate(331.09093685685235, 737, 463)" font-weight="400" fill="#00adb5" opacity="1" x="737" y="466.5" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-63.92597793318609, 166, 293)" font-weight="400" fill="#00adb5" opacity="1" x="166" y="300" font-family="Helvetica" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(283.12413471430733, 952, 525)" font-weight="400" fill="#eaeaea" opacity="1" x="952" y="531.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(-34.4221883753418, 781, 899)" font-weight="400" fill="#7a8288" opacity="1" x="781" y="907.5" font-family="Raleway" font-size="23.243988756727706px" text-anchor="middle">Frontend</text>
+<text transform="rotate(10.448365556284966, 579, 425)" font-weight="400" fill="#eaeaea" opacity="1" x="579" y="428" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-26.284232109917436, 640, 538)" font-weight="400" fill="#00adb5" opacity="1" x="640" y="543.5" font-family="Raleway" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(318.8110983412765, 616, 635)" font-weight="400" fill="#eaeaea" opacity="1" x="616" y="642.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(204.48503865603595, 650, 696)" font-weight="400" fill="#00adb5" opacity="1" x="650" y="701" font-family="Helvetica" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(7.9696155050628015, 521, 282)" font-weight="400" fill="#00adb5" opacity="1" x="521" y="284" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-41.016989327509414, 107, 683)" font-weight="400" fill="#00adb5" opacity="1" x="107" y="689.5" font-family="Raleway" font-size="24.535321465434798px" text-anchor="middle">DevOps</text>
+<text transform="rotate(256.21095673470336, 242, 519)" font-weight="400" fill="#eaeaea" opacity="1" x="242" y="522.5" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-41.048237062547464, 634, 809)" font-weight="400" fill="#00adb5" opacity="1" x="634" y="816" font-family="Helvetica" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(53.351331419940735, 172, 837)" font-weight="400" fill="#00adb5" opacity="1" x="172" y="843.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(158.36623829247722, 416, 688)" font-weight="400" fill="#7a8288" opacity="1" x="416" y="692.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(104.47925099845939, 690, 742)" font-weight="400" fill="#eaeaea" opacity="1" x="690" y="745" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-0.4043751537820169, 493, 569)" font-weight="400" fill="#eaeaea" opacity="1" x="493" y="574.5" font-family="Raleway" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(124.3316210314313, 573, 661)" font-weight="400" fill="#eaeaea" opacity="1" x="573" y="668.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(234.38753858412971, 682, 597)" font-weight="400" fill="#7a8288" opacity="1" x="682" y="602" font-family="Raleway" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(154.17532693789124, 334, 642)" font-weight="400" fill="#7a8288" opacity="1" x="334" y="644" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(256.1439015092998, 326, 182)" font-weight="400" fill="#7a8288" opacity="1" x="326" y="188.5" font-family="Helvetica" font-size="24.535321465434798px" text-anchor="middle">DevOps</text>
+<text transform="rotate(16.90459017963362, 572, 408)" font-weight="400" fill="#eaeaea" opacity="1" x="572" y="409.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(293.9482009336111, 66, 568)" font-weight="400" fill="#00adb5" opacity="1" x="66" y="575" font-family="Helvetica" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-67.0323514831403, 66, 400)" font-weight="400" fill="#eaeaea" opacity="1" x="66" y="406.5" font-family="Raleway" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(145.14786969644385, 518, 252)" font-weight="400" fill="#00adb5" opacity="1" x="518" y="256.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(311.36243123624587, 294, 732)" font-weight="400" fill="#eaeaea" opacity="1" x="294" y="735.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(129.8322533722186, 407, 148)" font-weight="400" fill="#7a8288" opacity="1" x="407" y="153.5" font-family="Helvetica" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(133.23322902584133, 591, 675)" font-weight="400" fill="#00adb5" opacity="1" x="591" y="682.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(173.21033400632922, 868, 331)" font-weight="400" fill="#7a8288" opacity="1" x="868" y="336" font-family="Helvetica" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(154.7133244223489, 277, 343)" font-weight="400" fill="#7a8288" opacity="1" x="277" y="345" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(205.1754929009711, 575, 157)" font-weight="400" fill="#00adb5" opacity="1" x="575" y="163.5" font-family="Raleway" font-size="24.535321465434798px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-78.2082581465171, 462, 518)" font-weight="400" fill="#7a8288" opacity="1" x="462" y="519.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(173.31876230580676, 421, 51)" font-weight="400" fill="#7a8288" opacity="1" x="421" y="58" font-family="Raleway" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(299.05313033100833, 104, 279)" font-weight="400" fill="#7a8288" opacity="1" x="104" y="286" font-family="Helvetica" font-size="25.826654174141893px" text-anchor="middle">Developer</text>
+<text transform="rotate(206.5207816551071, 658, 650)" font-weight="400" fill="#eaeaea" opacity="1" x="658" y="654.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(271.7521049276703, 246, 425)" font-weight="400" fill="#00adb5" opacity="1" x="246" y="428" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-18.53415009031731, 744, 826)" font-weight="400" fill="#eaeaea" opacity="1" x="744" y="831.5" font-family="Raleway" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(27.4789846490505, 736, 644)" font-weight="400" fill="#00adb5" opacity="1" x="736" y="651.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(98.7898699328256, 382, 253)" font-weight="400" fill="#00adb5" opacity="1" x="382" y="258" font-family="Raleway" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(13.54378228240822, 204, 544)" font-weight="400" fill="#7a8288" opacity="1" x="204" y="546" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-53.91667125928993, 423, 432)" font-weight="400" fill="#eaeaea" opacity="1" x="423" y="435" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(296.0109152207202, 402, 519)" font-weight="400" fill="#7a8288" opacity="1" x="402" y="520.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(292.2695152751494, 970, 551)" font-weight="400" fill="#00adb5" opacity="1" x="970" y="558" font-family="Raleway" font-size="19.36999063060642px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(299.439261140972, 182, 304)" font-weight="400" fill="#00adb5" opacity="1" x="182" y="307.5" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(349.7823931834578, 506, 732)" font-weight="400" fill="#00adb5" opacity="1" x="506" y="737" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(135.8165181734676, 329, 113)" font-weight="400" fill="#7a8288" opacity="1" x="329" y="116" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(135.1101316069766, 400, 896)" font-weight="400" fill="#7a8288" opacity="1" x="400" y="901.5" font-family="Helvetica" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(188.18176759322256, 490, 425)" font-weight="400" fill="#00adb5" opacity="1" x="490" y="432.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(319.49306507105615, 204, 600)" font-weight="400" fill="#7a8288" opacity="1" x="204" y="605" font-family="Raleway" font-size="12.5px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(306.53263110506003, 709, 108)" font-weight="400" fill="#00adb5" opacity="1" x="709" y="110" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(234.9330998980129, 577, 312)" font-weight="400" fill="#00adb5" opacity="1" x="577" y="315" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(224.17679801312124, 578, 389)" font-weight="400" fill="#7a8288" opacity="1" x="578" y="390.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-26.776028544072062, 278, 666)" font-weight="400" fill="#00adb5" opacity="1" x="278" y="669.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(167.6771497063698, 926, 660)" font-weight="400" fill="#eaeaea" opacity="1" x="926" y="663.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(-35.00472561689314, 230, 640)" font-weight="400" fill="#7a8288" opacity="1" x="230" y="645" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(238.20587769532855, 778, 334)" font-weight="400" fill="#00adb5" opacity="1" x="778" y="337" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-57.04052086781734, 920, 550)" font-weight="400" fill="#00adb5" opacity="1" x="920" y="555.5" font-family="Helvetica" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(45.73384440305357, 771, 538)" font-weight="400" fill="#7a8288" opacity="1" x="771" y="545.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(-46.75570962799513, 423, 300)" font-weight="400" fill="#7a8288" opacity="1" x="423" y="302.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(289.61921113525483, 435, 254)" font-weight="400" fill="#7a8288" opacity="1" x="435" y="256" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(12.59465579995636, 562, 438)" font-weight="400" fill="#7a8288" opacity="1" x="562" y="441.5" font-family="Helvetica" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-89.6823191641282, 271, 580)" font-weight="400" fill="#eaeaea" opacity="1" x="271" y="581.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(66.84227950723948, 442, 668)" font-weight="400" fill="#7a8288" opacity="1" x="442" y="671.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(347.8828527582264, 774, 879)" font-weight="400" fill="#eaeaea" opacity="1" x="774" y="882.5" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(116.68587694255908, 515, 382)" font-weight="400" fill="#00adb5" opacity="1" x="515" y="386.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-89.73692893969684, 261, 299)" font-weight="400" fill="#00adb5" opacity="1" x="261" y="302.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(217.0033909319916, 703, 350)" font-weight="400" fill="#eaeaea" opacity="1" x="703" y="355.5" font-family="Raleway" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(90.23661383438697, 312, 750)" font-weight="400" fill="#7a8288" opacity="1" x="312" y="757.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(159.8748869867413, 438, 741)" font-weight="400" fill="#eaeaea" opacity="1" x="438" y="743.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(186.3580800389676, 518, 292)" font-weight="400" fill="#eaeaea" opacity="1" x="518" y="294" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(302.3565389552883, 512, 233)" font-weight="400" fill="#00adb5" opacity="1" x="512" y="236" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-83.77512931533862, 331, 273)" font-weight="400" fill="#eaeaea" opacity="1" x="331" y="274.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(102.21056485185893, 456, 177)" font-weight="400" fill="#00adb5" opacity="1" x="456" y="181" font-family="Raleway" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(38.26430803549677, 848, 462)" font-weight="400" fill="#7a8288" opacity="1" x="848" y="465.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(18.716958811840488, 722, 299)" font-weight="400" fill="#eaeaea" opacity="1" x="722" y="304" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(100.12382635386838, 827, 726)" font-weight="400" fill="#00adb5" opacity="1" x="827" y="729" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(149.33115016637888, 365, 885)" font-weight="400" fill="#7a8288" opacity="1" x="365" y="890.5" font-family="Raleway" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(222.10527434577483, 252, 733)" font-weight="400" fill="#eaeaea" opacity="1" x="252" y="740.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(313.4258546323636, 627, 746)" font-weight="400" fill="#7a8288" opacity="1" x="627" y="748.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(171.31831550100742, 863, 320)" font-weight="400" fill="#eaeaea" opacity="1" x="863" y="322" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(262.61456982820044, 401, 812)" font-weight="400" fill="#7a8288" opacity="1" x="401" y="815" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-28.413248927524887, 548, 546)" font-weight="400" fill="#eaeaea" opacity="1" x="548" y="547.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(179.2853094401235, 435, 772)" font-weight="400" fill="#7a8288" opacity="1" x="435" y="775.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(55.639336176979974, 723, 574)" font-weight="400" fill="#eaeaea" opacity="1" x="723" y="577.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(300.7769324215022, 274, 809)" font-weight="400" fill="#eaeaea" opacity="1" x="274" y="813.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(156.6414571956924, 491, 468)" font-weight="400" fill="#7a8288" opacity="1" x="491" y="469.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(348.7700202124054, 943, 673)" font-weight="400" fill="#eaeaea" opacity="1" x="943" y="678.5" font-family="Helvetica" font-size="15.495992504485137px" text-anchor="middle">Backend</text>
+<text transform="rotate(17.4137405061227, 481, 891)" font-weight="400" fill="#00adb5" opacity="1" x="481" y="898.5" font-family="Raleway" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(345.52384992852984, 490, 682)" font-weight="400" fill="#7a8288" opacity="1" x="490" y="684.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(-73.3531379622189, 766, 781)" font-weight="400" fill="#00adb5" opacity="1" x="766" y="783" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-82.50167011865493, 220, 771)" font-weight="400" fill="#7a8288" opacity="1" x="220" y="774" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(225.3468312301426, 609, 374)" font-weight="400" fill="#00adb5" opacity="1" x="609" y="375.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(161.8449426870071, 503, 923)" font-weight="400" fill="#00adb5" opacity="1" x="503" y="927" font-family="Raleway" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(356.6995003152171, 382, 72)" font-weight="400" fill="#7a8288" opacity="1" x="382" y="75.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(52.47895634848576, 678, 385)" font-weight="400" fill="#00adb5" opacity="1" x="678" y="389.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(174.35632121952082, 442, 507)" font-weight="400" fill="#eaeaea" opacity="1" x="442" y="508.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-15.505238736749273, 588, 488)" font-weight="400" fill="#7a8288" opacity="1" x="588" y="491" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(321.34260912022677, 841, 366)" font-weight="400" fill="#eaeaea" opacity="1" x="841" y="373.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(10.616070675019204, 571, 524)" font-weight="400" fill="#7a8288" opacity="1" x="571" y="526.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(324.0388192674326, 889, 794)" font-weight="400" fill="#7a8288" opacity="1" x="889" y="796" font-family="Helvetica" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(188.65206612211284, 326, 438)" font-weight="400" fill="#7a8288" opacity="1" x="326" y="441.5" font-family="Helvetica" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(5.461052700626227, 316, 550)" font-weight="400" fill="#eaeaea" opacity="1" x="316" y="551.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-34.91354224500877, 390, 616)" font-weight="400" fill="#7a8288" opacity="1" x="390" y="619.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(354.82108375282075, 521, 323)" font-weight="400" fill="#7a8288" opacity="1" x="521" y="326.5" font-family="Helvetica" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(233.8393084722754, 188, 670)" font-weight="400" fill="#eaeaea" opacity="1" x="188" y="675" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(136.72798644133283, 528, 601)" font-weight="400" fill="#00adb5" opacity="1" x="528" y="602.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(288.1676532598993, 736, 381)" font-weight="400" fill="#eaeaea" opacity="1" x="736" y="384" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(62.7075470204966, 147, 701)" font-weight="400" fill="#00adb5" opacity="1" x="147" y="708.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(67.49271519365382, 637, 475)" font-weight="400" fill="#00adb5" opacity="1" x="637" y="477.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(16.91674058647674, 674, 136)" font-weight="400" fill="#eaeaea" opacity="1" x="674" y="138" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(352.7490236436711, 379, 759)" font-weight="400" fill="#00adb5" opacity="1" x="379" y="762" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(64.60853583859677, 366, 841)" font-weight="400" fill="#eaeaea" opacity="1" x="366" y="842.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(192.6850892429636, 868, 414)" font-weight="400" fill="#7a8288" opacity="1" x="868" y="417.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-62.90553151299503, 964, 426)" font-weight="400" fill="#00adb5" opacity="1" x="964" y="429.5" font-family="Raleway" font-size="12.913327087070947px" text-anchor="middle">Developer</text>
+<text transform="rotate(100.14995106968561, 428, 955)" font-weight="400" fill="#eaeaea" opacity="1" x="428" y="960" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(266.12584965123136, 445, 531)" font-weight="400" fill="#00adb5" opacity="1" x="445" y="532.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-69.29302453030506, 595, 728)" font-weight="400" fill="#7a8288" opacity="1" x="595" y="731" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-10.216727219622921, 416, 911)" font-weight="400" fill="#7a8288" opacity="1" x="416" y="918.5" font-family="Raleway" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(-1.5484714096172154, 310, 569)" font-weight="400" fill="#00adb5" opacity="1" x="310" y="571.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(95.24553188367072, 474, 114)" font-weight="400" fill="#eaeaea" opacity="1" x="474" y="116" font-family="Raleway" font-size="8.393662606596116px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-10.147070251473721, 216, 563)" font-weight="400" fill="#eaeaea" opacity="1" x="216" y="566" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(320.60918588685297, 543, 852)" font-weight="400" fill="#7a8288" opacity="1" x="543" y="853.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(289.3891312458502, 754, 207)" font-weight="400" fill="#eaeaea" opacity="1" x="754" y="211" font-family="Raleway" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(157.2321869094075, 578, 636)" font-weight="400" fill="#7a8288" opacity="1" x="578" y="637.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(42.61212861752702, 812, 512)" font-weight="400" fill="#00adb5" opacity="1" x="812" y="516.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(263.9915891149974, 481, 376)" font-weight="400" fill="#00adb5" opacity="1" x="481" y="377.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(101.68503293380377, 556, 729)" font-weight="400" fill="#eaeaea" opacity="1" x="556" y="732" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-30.446215840264326, 562, 115)" font-weight="400" fill="#00adb5" opacity="1" x="562" y="122.5" font-family="Helvetica" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(55.575177737313865, 662, 629)" font-weight="400" fill="#00adb5" opacity="1" x="662" y="631.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(-14.35795065218487, 426, 636)" font-weight="400" fill="#eaeaea" opacity="1" x="426" y="637" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(73.50794442161356, 128, 624)" font-weight="400" fill="#7a8288" opacity="1" x="128" y="627.5" font-family="Helvetica" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(71.39050133591076, 503, 963)" font-weight="400" fill="#7a8288" opacity="1" x="503" y="964.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(124.20464525660715, 902, 500)" font-weight="400" fill="#00adb5" opacity="1" x="902" y="503.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(87.57012256307998, 361, 592)" font-weight="400" fill="#7a8288" opacity="1" x="361" y="593.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(41.77730447229804, 840, 474)" font-weight="400" fill="#00adb5" opacity="1" x="840" y="479" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-89.90842938418892, 282, 518)" font-weight="400" fill="#eaeaea" opacity="1" x="282" y="519.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(50.839362210053636, 416, 566)" font-weight="400" fill="#eaeaea" opacity="1" x="416" y="569" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(185.86133492917818, 213, 431)" font-weight="400" fill="#7a8288" opacity="1" x="213" y="438.5" font-family="Raleway" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(26.335022503666128, 689, 323)" font-weight="400" fill="#00adb5" opacity="1" x="689" y="325.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(285.1390101272329, 437, 382)" font-weight="400" fill="#eaeaea" opacity="1" x="437" y="383" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(88.71008654064968, 163, 482)" font-weight="400" fill="#eaeaea" opacity="1" x="163" y="485" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-78.51504921378337, 344, 138)" font-weight="400" fill="#eaeaea" opacity="1" x="344" y="139.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(356.4339630894521, 238, 221)" font-weight="400" fill="#eaeaea" opacity="1" x="238" y="224.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(90.68561562368907, 306, 616)" font-weight="400" fill="#7a8288" opacity="1" x="306" y="617.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-20.986976591398463, 294, 824)" font-weight="400" fill="#7a8288" opacity="1" x="294" y="828.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(98.24188121978281, 775, 574)" font-weight="400" fill="#eaeaea" opacity="1" x="775" y="575.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-79.39958810312655, 361, 325)" font-weight="400" fill="#00adb5" opacity="1" x="361" y="328" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(171.25391733891047, 961, 612)" font-weight="400" fill="#7a8288" opacity="1" x="961" y="619.5" font-family="Raleway" font-size="20.661323339313515px" text-anchor="middle">CTO</text>
+<text transform="rotate(3.962623222713658, 537, 274)" font-weight="400" fill="#7a8288" opacity="1" x="537" y="276.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(94.96749409705748, 747, 381)" font-weight="400" fill="#7a8288" opacity="1" x="747" y="382" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-83.25606822653491, 824, 808)" font-weight="400" fill="#eaeaea" opacity="1" x="824" y="811" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(344.12454148480873, 799, 220)" font-weight="400" fill="#7a8288" opacity="1" x="799" y="221.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(234.4535343369718, 304, 889)" font-weight="400" fill="#eaeaea" opacity="1" x="304" y="892.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(241.02595225489978, 626, 475)" font-weight="400" fill="#eaeaea" opacity="1" x="626" y="476.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-24.397727220504414, 52, 526)" font-weight="400" fill="#00adb5" opacity="1" x="52" y="531" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(238.8348557096137, 553, 760)" font-weight="400" fill="#eaeaea" opacity="1" x="553" y="761.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-22.795965640244987, 320, 405)" font-weight="400" fill="#eaeaea" opacity="1" x="320" y="408" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(165.22979658806221, 500, 475)" font-weight="400" fill="#00adb5" opacity="1" x="500" y="478.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(53.56443292627316, 896, 624)" font-weight="400" fill="#7a8288" opacity="1" x="896" y="626.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(14.713131536130394, 759, 474)" font-weight="400" fill="#00adb5" opacity="1" x="759" y="475" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(233.59408751297468, 680, 276)" font-weight="400" fill="#eaeaea" opacity="1" x="680" y="279" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(296.349195421836, 806, 612)" font-weight="400" fill="#eaeaea" opacity="1" x="806" y="613.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(119.75341210595955, 398, 181)" font-weight="400" fill="#7a8288" opacity="1" x="398" y="185" font-family="Raleway" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(191.6408516287994, 540, 264)" font-weight="400" fill="#00adb5" opacity="1" x="540" y="265.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(59.566251109152226, 923, 330)" font-weight="400" fill="#00adb5" opacity="1" x="923" y="334.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-85.53337096959974, 596, 810)" font-weight="400" fill="#eaeaea" opacity="1" x="596" y="811.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(93.86866011836969, 253, 487)" font-weight="400" fill="#00adb5" opacity="1" x="253" y="490" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(277.39987152041857, 444, 304)" font-weight="400" fill="#00adb5" opacity="1" x="444" y="307.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(224.48203339915818, 646, 339)" font-weight="400" fill="#eaeaea" opacity="1" x="646" y="341.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(284.16499274511125, 463, 547)" font-weight="400" fill="#eaeaea" opacity="1" x="463" y="548" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(356.3872373320103, 749, 107)" font-weight="400" fill="#eaeaea" opacity="1" x="749" y="110.5" font-family="Helvetica" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(341.3750626665424, 916, 364)" font-weight="400" fill="#00adb5" opacity="1" x="916" y="365.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(107.59458312652752, 468, 175)" font-weight="400" fill="#00adb5" opacity="1" x="468" y="178.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(237.37916723237333, 637, 430)" font-weight="400" fill="#eaeaea" opacity="1" x="637" y="431.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(325.1135804202005, 945, 695)" font-weight="400" fill="#eaeaea" opacity="1" x="945" y="699.5" font-family="Helvetica" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(112.83883819488753, 440, 793)" font-weight="400" fill="#00adb5" opacity="1" x="440" y="794.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(246.37246486561958, 698, 438)" font-weight="400" fill="#00adb5" opacity="1" x="698" y="441" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(251.93213597961338, 542, 513)" font-weight="400" fill="#eaeaea" opacity="1" x="542" y="516.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(187.52028120566175, 528, 803)" font-weight="400" fill="#eaeaea" opacity="1" x="528" y="805.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(297.31226939117175, 309, 675)" font-weight="400" fill="#00adb5" opacity="1" x="309" y="676" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(193.68029607631283, 556, 175)" font-weight="400" fill="#7a8288" opacity="1" x="556" y="178.5" font-family="Helvetica" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(292.84215348905053, 730, 786)" font-weight="400" fill="#00adb5" opacity="1" x="730" y="787.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(114.18643364877741, 816, 787)" font-weight="400" fill="#7a8288" opacity="1" x="816" y="790.5" font-family="Helvetica" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(228.39870229288871, 377, 550)" font-weight="400" fill="#00adb5" opacity="1" x="377" y="551.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(86.36243113147208, 871, 749)" font-weight="400" fill="#eaeaea" opacity="1" x="871" y="754" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(304.1249193596304, 718, 716)" font-weight="400" fill="#eaeaea" opacity="1" x="718" y="717.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(138.9600269072503, 791, 402)" font-weight="400" fill="#00adb5" opacity="1" x="791" y="405" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(57.72421724522683, 718, 655)" font-weight="400" fill="#eaeaea" opacity="1" x="718" y="658.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(192.1394742849001, 739, 317)" font-weight="400" fill="#eaeaea" opacity="1" x="739" y="319.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(202.0486272741336, 670, 719)" font-weight="400" fill="#eaeaea" opacity="1" x="670" y="720" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(173.6787415778631, 277, 188)" font-weight="400" fill="#eaeaea" opacity="1" x="277" y="191" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(81.02618802852284, 490, 961)" font-weight="400" fill="#00adb5" opacity="1" x="490" y="962.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(150.62561105965898, 615, 950)" font-weight="400" fill="#eaeaea" opacity="1" x="615" y="954" font-family="Raleway" font-size="9.68499531530321px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(260.62842087383774, 512, 712)" font-weight="400" fill="#00adb5" opacity="1" x="512" y="713.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(149.62286721897445, 884, 783)" font-weight="400" fill="#eaeaea" opacity="1" x="884" y="788" font-family="Raleway" font-size="11.621994378363853px" text-anchor="middle">Frontend</text>
+<text transform="rotate(168.47445142384365, 746, 666)" font-weight="400" fill="#eaeaea" opacity="1" x="746" y="667.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-13.104648256257477, 382, 771)" font-weight="400" fill="#7a8288" opacity="1" x="382" y="774" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(205.06380571753897, 564, 393)" font-weight="400" fill="#00adb5" opacity="1" x="564" y="396.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(203.54669465382898, 675, 213)" font-weight="400" fill="#eaeaea" opacity="1" x="675" y="215.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(-80.91765135103728, 785, 575)" font-weight="400" fill="#00adb5" opacity="1" x="785" y="576" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-79.49620127188797, 713, 215)" font-weight="400" fill="#7a8288" opacity="1" x="713" y="218" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-11.31959792288002, 443, 403)" font-weight="400" fill="#eaeaea" opacity="1" x="443" y="404" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(336.9900800785935, 588, 561)" font-weight="400" fill="#7a8288" opacity="1" x="588" y="563" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(141.54031198077845, 425, 621)" font-weight="400" fill="#00adb5" opacity="1" x="425" y="622.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(344.81258174162946, 534, 445)" font-weight="400" fill="#00adb5" opacity="1" x="534" y="447.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(163.44520223021752, 361, 700)" font-weight="400" fill="#eaeaea" opacity="1" x="361" y="701.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(308.49107284028594, 919, 462)" font-weight="400" fill="#7a8288" opacity="1" x="919" y="465" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(313.3525230378623, 512, 353)" font-weight="400" fill="#7a8288" opacity="1" x="512" y="356.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(245.72024718659011, 376, 931)" font-weight="400" fill="#7a8288" opacity="1" x="376" y="933.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(47.48971230233542, 252, 386)" font-weight="400" fill="#7a8288" opacity="1" x="252" y="387" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(88.45474191869367, 443, 967)" font-weight="400" fill="#eaeaea" opacity="1" x="443" y="970" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(237.89356127748903, 424, 561)" font-weight="400" fill="#00adb5" opacity="1" x="424" y="562" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(175.80621612528634, 581, 501)" font-weight="400" fill="#eaeaea" opacity="1" x="581" y="503" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(249.05671236061337, 222, 518)" font-weight="400" fill="#eaeaea" opacity="1" x="222" y="519.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(56.88137329503958, 650, 628)" font-weight="400" fill="#7a8288" opacity="1" x="650" y="630.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(180.65106177267205, 313, 580)" font-weight="400" fill="#eaeaea" opacity="1" x="313" y="581.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(81.96688063999959, 328, 856)" font-weight="400" fill="#7a8288" opacity="1" x="328" y="859" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(20.48182552237149, 418, 324)" font-weight="400" fill="#7a8288" opacity="1" x="418" y="328" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(233.9912153799046, 228, 887)" font-weight="400" fill="#00adb5" opacity="1" x="228" y="889.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(171.55282271166928, 499, 792)" font-weight="400" fill="#7a8288" opacity="1" x="499" y="793" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(87.45977648415594, 53, 487)" font-weight="400" fill="#7a8288" opacity="1" x="53" y="490" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(86.33485802278615, 366, 285)" font-weight="400" fill="#00adb5" opacity="1" x="366" y="286" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(184.07584203131304, 583, 337)" font-weight="400" fill="#00adb5" opacity="1" x="583" y="339" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(293.1420781012355, 205, 720)" font-weight="400" fill="#00adb5" opacity="1" x="205" y="721.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-45.116933563312955, 339, 462)" font-weight="400" fill="#7a8288" opacity="1" x="339" y="464.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(40.33454424251548, 632, 184)" font-weight="400" fill="#eaeaea" opacity="1" x="632" y="185.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(230.49458041810178, 163, 600)" font-weight="400" fill="#00adb5" opacity="1" x="163" y="603" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(45.994380775836476, 727, 349)" font-weight="400" fill="#eaeaea" opacity="1" x="727" y="353" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(195.47844900073414, 503, 102)" font-weight="400" fill="#eaeaea" opacity="1" x="503" y="104.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(153.13103567954673, 269, 336)" font-weight="400" fill="#eaeaea" opacity="1" x="269" y="337" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-2.0174288339994098, 499, 33)" font-weight="400" fill="#00adb5" opacity="1" x="499" y="36" font-family="Raleway" font-size="12.267660732717399px" text-anchor="middle">DevOps</text>
+<text transform="rotate(188.25965894305133, 368, 347)" font-weight="400" fill="#7a8288" opacity="1" x="368" y="348" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(340.0666811084685, 609, 583)" font-weight="400" fill="#7a8288" opacity="1" x="609" y="585" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(170.6884003899472, 648, 257)" font-weight="400" fill="#eaeaea" opacity="1" x="648" y="258.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(264.59747330965354, 672, 499)" font-weight="400" fill="#7a8288" opacity="1" x="672" y="501.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-17.170944179953512, 225, 629)" font-weight="400" fill="#eaeaea" opacity="1" x="225" y="630.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(355.5790223766021, 841, 344)" font-weight="400" fill="#00adb5" opacity="1" x="841" y="347" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(8.083394811527526, 254, 685)" font-weight="400" fill="#00adb5" opacity="1" x="254" y="688.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(1.5996909568084892, 487, 912)" font-weight="400" fill="#7a8288" opacity="1" x="487" y="914.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(309.63160175812976, 660, 807)" font-weight="400" fill="#7a8288" opacity="1" x="660" y="808" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(337.83642431154686, 539, 470)" font-weight="400" fill="#7a8288" opacity="1" x="539" y="471.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(99.30151471369969, 835, 647)" font-weight="400" fill="#7a8288" opacity="1" x="835" y="648" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(154.26206957747326, 443, 623)" font-weight="400" fill="#7a8288" opacity="1" x="443" y="625" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(235.68165079023768, 581, 220)" font-weight="400" fill="#7a8288" opacity="1" x="581" y="221.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(265.2689375147545, 334, 488)" font-weight="400" fill="#eaeaea" opacity="1" x="334" y="490.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(105.35692343272127, 186, 338)" font-weight="400" fill="#7a8288" opacity="1" x="186" y="339.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(114.33438429810776, 854, 588)" font-weight="400" fill="#7a8288" opacity="1" x="854" y="591" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(217.64788552543519, 540, 721)" font-weight="400" fill="#00adb5" opacity="1" x="540" y="724.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(-82.36289262415977, 135, 562)" font-weight="400" fill="#eaeaea" opacity="1" x="135" y="564.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(359.1712110346049, 543, 255)" font-weight="400" fill="#00adb5" opacity="1" x="543" y="256" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-39.688518023904656, 633, 765)" font-weight="400" fill="#7a8288" opacity="1" x="633" y="766.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-38.892706608815445, 383, 652)" font-weight="400" fill="#eaeaea" opacity="1" x="383" y="653" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-76.16193383287728, 731, 688)" font-weight="400" fill="#7a8288" opacity="1" x="731" y="690" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-28.18050024014921, 371, 707)" font-weight="400" fill="#00adb5" opacity="1" x="371" y="708.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(292.13635700854303, 596, 852)" font-weight="400" fill="#00adb5" opacity="1" x="596" y="854.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-31.515773507540935, 247, 812)" font-weight="400" fill="#00adb5" opacity="1" x="247" y="813.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(3.460285707125568, 403, 118)" font-weight="400" fill="#00adb5" opacity="1" x="403" y="121" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-1.456793505445495, 496, 581)" font-weight="400" fill="#eaeaea" opacity="1" x="496" y="584.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(247.20468894448354, 666, 945)" font-weight="400" fill="#7a8288" opacity="1" x="666" y="947.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(160.20972054927134, 927, 400)" font-weight="400" fill="#00adb5" opacity="1" x="927" y="401" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-47.840126733221176, 351, 411)" font-weight="400" fill="#00adb5" opacity="1" x="351" y="412.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(304.4589616705007, 334, 658)" font-weight="400" fill="#eaeaea" opacity="1" x="334" y="659" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(311.5644619248642, 596, 131)" font-weight="400" fill="#eaeaea" opacity="1" x="596" y="133" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(134.1544605345253, 271, 244)" font-weight="400" fill="#7a8288" opacity="1" x="271" y="245.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-77.61903046985111, 457, 488)" font-weight="400" fill="#7a8288" opacity="1" x="457" y="490.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(81.57326646688082, 698, 922)" font-weight="400" fill="#00adb5" opacity="1" x="698" y="923.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-15.871293212227183, 403, 299)" font-weight="400" fill="#00adb5" opacity="1" x="403" y="302" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-30.192425223157006, 767, 462)" font-weight="400" fill="#00adb5" opacity="1" x="767" y="466" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(331.57771756014677, 200, 148)" font-weight="400" fill="#eaeaea" opacity="1" x="200" y="150.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(294.57298296716664, 744, 198)" font-weight="400" fill="#00adb5" opacity="1" x="744" y="199" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(305.47495562372495, 383, 532)" font-weight="400" fill="#7a8288" opacity="1" x="383" y="533.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(287.55106705126866, 503, 222)" font-weight="400" fill="#7a8288" opacity="1" x="503" y="223" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(160.59204262243213, 301, 344)" font-weight="400" fill="#7a8288" opacity="1" x="301" y="346" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(29.543266352053394, 665, 121)" font-weight="400" fill="#7a8288" opacity="1" x="665" y="122.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(79.53449257162144, 276, 402)" font-weight="400" fill="#7a8288" opacity="1" x="276" y="404.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(343.4241094223336, 447, 210)" font-weight="400" fill="#eaeaea" opacity="1" x="447" y="211.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(176.17598546025155, 719, 159)" font-weight="400" fill="#7a8288" opacity="1" x="719" y="162" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(125.79484651600701, 264, 543)" font-weight="400" fill="#7a8288" opacity="1" x="264" y="547" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(206.5207816551071, 621, 97)" font-weight="400" fill="#eaeaea" opacity="1" x="621" y="99.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(271.7521049276703, 324, 253)" font-weight="400" fill="#00adb5" opacity="1" x="324" y="254" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-18.53415009031731, 525, 673)" font-weight="400" fill="#eaeaea" opacity="1" x="525" y="674.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(27.4789846490505, 667, 198)" font-weight="400" fill="#00adb5" opacity="1" x="667" y="199" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(71.92125685602485, 276, 623)" font-weight="400" fill="#eaeaea" opacity="1" x="276" y="625" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-2.9067956995716235, 493, 456)" font-weight="400" fill="#eaeaea" opacity="1" x="493" y="457.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-5.236347874270909, 229, 306)" font-weight="400" fill="#eaeaea" opacity="1" x="229" y="308.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(50.280819004532326, 556, 971)" font-weight="400" fill="#7a8288" opacity="1" x="556" y="972.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-11.11558910511229, 802, 817)" font-weight="400" fill="#7a8288" opacity="1" x="802" y="820" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(342.7241735685264, 546, 205)" font-weight="400" fill="#7a8288" opacity="1" x="546" y="209" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(349.7823931834578, 712, 847)" font-weight="400" fill="#00adb5" opacity="1" x="712" y="849.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(135.8165181734676, 629, 831)" font-weight="400" fill="#7a8288" opacity="1" x="629" y="832" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(135.1101316069766, 233, 593)" font-weight="400" fill="#7a8288" opacity="1" x="233" y="594.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(188.18176759322256, 499, 313)" font-weight="400" fill="#00adb5" opacity="1" x="499" y="314" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(221.8342103026036, 656, 309)" font-weight="400" fill="#00adb5" opacity="1" x="656" y="311" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(31.048857328039063, 925, 587)" font-weight="400" fill="#00adb5" opacity="1" x="925" y="588.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(166.85312312881143, 757, 599)" font-weight="400" fill="#eaeaea" opacity="1" x="757" y="601.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(353.9695360343762, 909, 649)" font-weight="400" fill="#7a8288" opacity="1" x="909" y="650.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(340.9487523655169, 877, 233)" font-weight="400" fill="#eaeaea" opacity="1" x="877" y="236" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-41.884442545419766, 404, 866)" font-weight="400" fill="#00adb5" opacity="1" x="404" y="869.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(110.56739607852296, 164, 259)" font-weight="400" fill="#eaeaea" opacity="1" x="164" y="261.5" font-family="Raleway" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(-62.882330405005405, 72, 418)" font-weight="400" fill="#00adb5" opacity="1" x="72" y="419" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(111.45971337401296, 677, 739)" font-weight="400" fill="#eaeaea" opacity="1" x="677" y="740.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-13.962861264107216, 518, 852)" font-weight="400" fill="#7a8288" opacity="1" x="518" y="853" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-81.9201135597751, 165, 557)" font-weight="400" fill="#00adb5" opacity="1" x="165" y="559" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(320.1438762667328, 547, 861)" font-weight="400" fill="#7a8288" opacity="1" x="547" y="862.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(186.14501876577035, 620, 804)" font-weight="400" fill="#7a8288" opacity="1" x="620" y="806.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(331.36634607862976, 309, 111)" font-weight="400" fill="#eaeaea" opacity="1" x="309" y="112.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(314.90959901591276, 78, 587)" font-weight="400" fill="#00adb5" opacity="1" x="78" y="590" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(118.77790609783395, 431, 843)" font-weight="400" fill="#7a8288" opacity="1" x="431" y="847" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(334.31233694046375, 965, 637)" font-weight="400" fill="#eaeaea" opacity="1" x="965" y="639.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(19.214615872695397, 740, 171)" font-weight="400" fill="#00adb5" opacity="1" x="740" y="172" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(75.83642371270639, 186, 688)" font-weight="400" fill="#7a8288" opacity="1" x="186" y="689.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(59.805826018473994, 850, 389)" font-weight="400" fill="#eaeaea" opacity="1" x="850" y="390" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(262.99367325054186, 448, 377)" font-weight="400" fill="#eaeaea" opacity="1" x="448" y="379" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(16.5934539337612, 202, 518)" font-weight="400" fill="#00adb5" opacity="1" x="202" y="519.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(129.24725185113365, 578, 877)" font-weight="400" fill="#eaeaea" opacity="1" x="578" y="879.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(2.113709492661857, 920, 413)" font-weight="400" fill="#eaeaea" opacity="1" x="920" y="414.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(0.453046602407953, 615, 116)" font-weight="400" fill="#7a8288" opacity="1" x="615" y="119" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(318.7716581340747, 152, 525)" font-weight="400" fill="#00adb5" opacity="1" x="152" y="528.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(120.35057912131333, 145, 307)" font-weight="400" fill="#7a8288" opacity="1" x="145" y="309.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(-11.10856171749, 406, 107)" font-weight="400" fill="#eaeaea" opacity="1" x="406" y="108" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(184.5993019429032, 717, 820)" font-weight="400" fill="#7a8288" opacity="1" x="717" y="821.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(260.66908316252244, 668, 549)" font-weight="400" fill="#7a8288" opacity="1" x="668" y="550" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-88.61104488308123, 152, 500)" font-weight="400" fill="#7a8288" opacity="1" x="152" y="502" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(255.80352918515152, 196, 251)" font-weight="400" fill="#eaeaea" opacity="1" x="196" y="252.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(5.089513107710295, 287, 843)" font-weight="400" fill="#eaeaea" opacity="1" x="287" y="845.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(133.2552231397737, 54, 550)" font-weight="400" fill="#eaeaea" opacity="1" x="54" y="551.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-24.150803058478424, 171, 791)" font-weight="400" fill="#eaeaea" opacity="1" x="171" y="794" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(14.854846049498228, 400, 128)" font-weight="400" fill="#7a8288" opacity="1" x="400" y="132" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(-2.4952241370897745, 247, 212)" font-weight="400" fill="#eaeaea" opacity="1" x="247" y="214.5" font-family="Helvetica" font-size="6.25px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(14.33331732839966, 351, 569)" font-weight="400" fill="#00adb5" opacity="1" x="351" y="570" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(-12.6113497850538, 462, 869)" font-weight="400" fill="#7a8288" opacity="1" x="462" y="870.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(280.09378837891563, 559, 287)" font-weight="400" fill="#eaeaea" opacity="1" x="559" y="288" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(350.9739913609689, 789, 211)" font-weight="400" fill="#7a8288" opacity="1" x="789" y="213" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(345.5343239547379, 496, 83)" font-weight="400" fill="#7a8288" opacity="1" x="496" y="84.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(225.39999261284242, 574, 785)" font-weight="400" fill="#00adb5" opacity="1" x="574" y="787.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(50.71026749010677, 337, 949)" font-weight="400" fill="#eaeaea" opacity="1" x="337" y="950.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-39.74429456039532, 57, 630)" font-weight="400" fill="#eaeaea" opacity="1" x="57" y="633" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(299.64434284234625, 698, 182)" font-weight="400" fill="#00adb5" opacity="1" x="698" y="185.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(162.03613054567765, 786, 391)" font-weight="400" fill="#eaeaea" opacity="1" x="786" y="392.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(253.267071406947, 119, 631)" font-weight="400" fill="#00adb5" opacity="1" x="119" y="632" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(120.87323437019867, 846, 647)" font-weight="400" fill="#eaeaea" opacity="1" x="846" y="648.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-49.62948201206954, 243, 646)" font-weight="400" fill="#00adb5" opacity="1" x="243" y="647" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(345.3961231351812, 943, 600)" font-weight="400" fill="#7a8288" opacity="1" x="943" y="602" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(253.9830200485806, 923, 306)" font-weight="400" fill="#eaeaea" opacity="1" x="923" y="307.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(171.91636932171716, 431, 924)" font-weight="400" fill="#7a8288" opacity="1" x="431" y="926.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(258.43568818105183, 42, 506)" font-weight="400" fill="#00adb5" opacity="1" x="42" y="507.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(133.62071435135823, 976, 587)" font-weight="400" fill="#eaeaea" opacity="1" x="976" y="590" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(272.10116760903094, 292, 215)" font-weight="400" fill="#eaeaea" opacity="1" x="292" y="219" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(16.699776699161053, 632, 647)" font-weight="400" fill="#00adb5" opacity="1" x="632" y="648.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(130.04424343818997, 106, 655)" font-weight="400" fill="#00adb5" opacity="1" x="106" y="656" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(68.00411689933581, 895, 438)" font-weight="400" fill="#7a8288" opacity="1" x="895" y="439.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(68.95527012597549, 882, 750)" font-weight="400" fill="#00adb5" opacity="1" x="882" y="751" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-56.926579161978594, 703, 744)" font-weight="400" fill="#eaeaea" opacity="1" x="703" y="746" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(299.85854405437533, 104, 323)" font-weight="400" fill="#7a8288" opacity="1" x="104" y="324.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(207.3862902714807, 605, 228)" font-weight="400" fill="#eaeaea" opacity="1" x="605" y="230.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(290.8269025668627, 64, 370)" font-weight="400" fill="#00adb5" opacity="1" x="64" y="371.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(281.18296640514535, 237, 775)" font-weight="400" fill="#eaeaea" opacity="1" x="237" y="778" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(-32.79604551512564, 742, 899)" font-weight="400" fill="#00adb5" opacity="1" x="742" y="902.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(358.3182551564268, 496, 501)" font-weight="400" fill="#00adb5" opacity="1" x="496" y="502.5" font-family="Helvetica" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(87.07782992025736, 633, 966)" font-weight="400" fill="#eaeaea" opacity="1" x="633" y="967" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(282.28943126848407, 351, 157)" font-weight="400" fill="#eaeaea" opacity="1" x="351" y="158.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(145.46674411532786, 874, 343)" font-weight="400" fill="#eaeaea" opacity="1" x="874" y="344" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(60.040680239927326, 783, 324)" font-weight="400" fill="#eaeaea" opacity="1" x="783" y="326" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-6.790258845682379, 63, 613)" font-weight="400" fill="#00adb5" opacity="1" x="63" y="614.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(164.86586105770704, 534, 163)" font-weight="400" fill="#00adb5" opacity="1" x="534" y="165.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(141.21086965837094, 968, 450)" font-weight="400" fill="#00adb5" opacity="1" x="968" y="451.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(45.487604204326686, 292, 927)" font-weight="400" fill="#00adb5" opacity="1" x="292" y="930" font-family="Raleway" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(51.650247639813564, 868, 462)" font-weight="400" fill="#7a8288" opacity="1" x="868" y="465.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(317.6048569789179, 497, 539)" font-weight="400" fill="#7a8288" opacity="1" x="497" y="540.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(0.8676624721231285, 117, 706)" font-weight="400" fill="#eaeaea" opacity="1" x="117" y="707" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(52.164546131232996, 625, 431)" font-weight="400" fill="#eaeaea" opacity="1" x="625" y="432.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(201.60906686056828, 702, 705)" font-weight="400" fill="#00adb5" opacity="1" x="702" y="706" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(-35.64208385797315, 102, 518)" font-weight="400" fill="#7a8288" opacity="1" x="102" y="520" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(110.22046575333012, 125, 779)" font-weight="400" fill="#eaeaea" opacity="1" x="125" y="780.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-56.222393683261416, 165, 749)" font-weight="400" fill="#00adb5" opacity="1" x="165" y="751.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-48.5995673940515, 770, 119)" font-weight="400" fill="#00adb5" opacity="1" x="770" y="120.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(76.39498032927278, 72, 679)" font-weight="400" fill="#eaeaea" opacity="1" x="72" y="682" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(101.27395757998991, 183, 367)" font-weight="400" fill="#00adb5" opacity="1" x="183" y="371" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(30.78373437783855, 604, 270)" font-weight="400" fill="#7a8288" opacity="1" x="604" y="271.5" font-family="Helvetica" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(301.88656229147995, 666, 80)" font-weight="400" fill="#00adb5" opacity="1" x="666" y="81" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(76.01023085695236, 343, 195)" font-weight="400" fill="#eaeaea" opacity="1" x="343" y="196.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(0.9486771286226131, 587, 79)" font-weight="400" fill="#00adb5" opacity="1" x="587" y="80" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(113.20308217927959, 335, 131)" font-weight="400" fill="#00adb5" opacity="1" x="335" y="133" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(327.80728270197625, 428, 71)" font-weight="400" fill="#eaeaea" opacity="1" x="428" y="72.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(324.810732200188, 394, 957)" font-weight="400" fill="#00adb5" opacity="1" x="394" y="959.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(105.70115813785287, 940, 317)" font-weight="400" fill="#7a8288" opacity="1" x="940" y="318.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(71.15773923748999, 929, 731)" font-weight="400" fill="#eaeaea" opacity="1" x="929" y="734" font-family="Helvetica" font-size="7.747996252242569px" text-anchor="middle">Backend</text>
+<text transform="rotate(283.28485267855456, 183, 600)" font-weight="400" fill="#7a8288" opacity="1" x="183" y="603.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(99.63351854571772, 263, 587)" font-weight="400" fill="#eaeaea" opacity="1" x="263" y="588.5" font-family="Helvetica" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(203.23346628492396, 891, 252)" font-weight="400" fill="#eaeaea" opacity="1" x="891" y="253" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(305.87612021522415, 120, 690)" font-weight="400" fill="#00adb5" opacity="1" x="120" y="691.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(164.47909846179147, 825, 670)" font-weight="400" fill="#00adb5" opacity="1" x="825" y="671" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(52.79347217771851, 874, 588)" font-weight="400" fill="#00adb5" opacity="1" x="874" y="590" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(296.2547280202875, 47, 582)" font-weight="400" fill="#00adb5" opacity="1" x="47" y="583.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(350.0222363136813, 770, 830)" font-weight="400" fill="#eaeaea" opacity="1" x="770" y="832.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(156.49264823947692, 693, 78)" font-weight="400" fill="#eaeaea" opacity="1" x="693" y="79.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(343.4820987812625, 405, 344)" font-weight="400" fill="#7a8288" opacity="1" x="405" y="345.5" font-family="Raleway" font-size="3.8739981261212844px" text-anchor="middle">Backend</text>
+<text transform="rotate(266.97750465803665, 800, 845)" font-weight="400" fill="#eaeaea" opacity="1" x="800" y="849" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(69.53028209485592, 874, 705)" font-weight="400" fill="#eaeaea" opacity="1" x="874" y="706.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(145.1642311714423, 781, 126)" font-weight="400" fill="#00adb5" opacity="1" x="781" y="127" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(119.47265858271749, 572, 46)" font-weight="400" fill="#00adb5" opacity="1" x="572" y="47.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-1.1325144353939776, 506, 932)" font-weight="400" fill="#eaeaea" opacity="1" x="506" y="933" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(336.84745361416014, 205, 736)" font-weight="400" fill="#eaeaea" opacity="1" x="205" y="738" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(190.16831887893767, 645, 62)" font-weight="400" fill="#eaeaea" opacity="1" x="645" y="63.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(242.49070659861468, 274, 143)" font-weight="400" fill="#7a8288" opacity="1" x="274" y="145.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(-70.26591538463995, 801, 141)" font-weight="400" fill="#00adb5" opacity="1" x="801" y="142.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(236.3666869729602, 455, 570)" font-weight="400" fill="#eaeaea" opacity="1" x="455" y="571.5" font-family="Raleway" font-size="3.8739981261212844px" text-anchor="middle">Backend</text>
+<text transform="rotate(-83.29424947187968, 942, 499)" font-weight="400" fill="#eaeaea" opacity="1" x="942" y="503" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(273.8866739179412, 472, 542)" font-weight="400" fill="#7a8288" opacity="1" x="472" y="543.5" font-family="Helvetica" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(103.02904763865706, 979, 463)" font-weight="400" fill="#eaeaea" opacity="1" x="979" y="464" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(322.25531120423943, 611, 816)" font-weight="400" fill="#00adb5" opacity="1" x="611" y="817.5" font-family="Raleway" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(212.63231559779138, 197, 834)" font-weight="400" fill="#00adb5" opacity="1" x="197" y="835" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(216.25816597894683, 259, 909)" font-weight="400" fill="#eaeaea" opacity="1" x="259" y="911" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(64.43912751713727, 833, 156)" font-weight="400" fill="#eaeaea" opacity="1" x="833" y="157.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(67.93930299484138, 645, 963)" font-weight="400" fill="#eaeaea" opacity="1" x="645" y="965.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(168.50411665556211, 537, 991)" font-weight="400" fill="#00adb5" opacity="1" x="537" y="992.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-33.98791191353831, 688, 476)" font-weight="400" fill="#eaeaea" opacity="1" x="688" y="477.5" font-family="Raleway" font-size="3.8739981261212844px" text-anchor="middle">Backend</text>
+<text transform="rotate(115.65462122003296, 712, 927)" font-weight="400" fill="#eaeaea" opacity="1" x="712" y="931" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(150.16263496138276, 285, 724)" font-weight="400" fill="#eaeaea" opacity="1" x="285" y="725.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(21.891835980066947, 839, 174)" font-weight="400" fill="#00adb5" opacity="1" x="839" y="175" font-family="Raleway" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(264.93253485994995, 35, 562)" font-weight="400" fill="#00adb5" opacity="1" x="35" y="563.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(-16.391266252096393, 939, 685)" font-weight="400" fill="#00adb5" opacity="1" x="939" y="686" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(291.7639054645617, 972, 512)" font-weight="400" fill="#00adb5" opacity="1" x="972" y="514" font-family="Raleway" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(55.481461354289884, 954, 352)" font-weight="400" fill="#eaeaea" opacity="1" x="954" y="353.5" font-family="Helvetica" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(85.65325506760425, 991, 551)" font-weight="400" fill="#7a8288" opacity="1" x="991" y="553.5" font-family="Raleway" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(245.0258352165231, 908, 241)" font-weight="400" fill="#00adb5" opacity="1" x="908" y="242.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(-20.403113332764768, 398, 475)" font-weight="400" fill="#7a8288" opacity="1" x="398" y="476.5" font-family="Helvetica" font-size="3.8739981261212844px" text-anchor="middle">Backend</text>
+<text transform="rotate(-74.27630066139452, 945, 720)" font-weight="400" fill="#7a8288" opacity="1" x="945" y="724" font-family="Raleway" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(350.48880657203904, 487, 395)" font-weight="400" fill="#eaeaea" opacity="1" x="487" y="396.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+<text transform="rotate(117.46951112871501, 885, 815)" font-weight="400" fill="#eaeaea" opacity="1" x="885" y="816" font-family="Helvetica" font-size="4.196831303298058px" text-anchor="middle">Engineer manager</text>
+<text transform="rotate(88.59951415033989, 244, 481)" font-weight="400" fill="#7a8288" opacity="1" x="244" y="482.5" font-family="Helvetica" font-size="6.1338303663586995px" text-anchor="middle">DevOps</text>
+<text transform="rotate(21.230523936092172, 660, 689)" font-weight="400" fill="#7a8288" opacity="1" x="660" y="690" font-family="Raleway" font-size="3.2283317717677367px" text-anchor="middle">Full stack developer</text>
+<text transform="rotate(110.50510177412308, 33, 475)" font-weight="400" fill="#7a8288" opacity="1" x="33" y="477" font-family="Helvetica" font-size="4.842497657651605px" text-anchor="middle">Team Lead</text>
+<text transform="rotate(-24.47867628861157, 240, 116)" font-weight="400" fill="#7a8288" opacity="1" x="240" y="117.5" font-family="Raleway" font-size="6.456663543535473px" text-anchor="middle">Developer</text>
+<text transform="rotate(-24.826117700350533, 422, 891)" font-weight="400" fill="#7a8288" opacity="1" x="422" y="893.5" font-family="Helvetica" font-size="5.8109971891819265px" text-anchor="middle">Frontend</text>
+<text transform="rotate(129.56349602880118, 506, 613)" font-weight="400" fill="#eaeaea" opacity="1" x="506" y="614" font-family="Helvetica" font-size="3.2283317717677367px" text-anchor="middle">DevSecOps</text>
+<text transform="rotate(11.13810901583084, 562, 319)" font-weight="400" fill="#00adb5" opacity="1" x="562" y="320.5" font-family="Helvetica" font-size="3.8739981261212844px" text-anchor="middle">Backend</text>
+<text transform="rotate(-6.573750933899431, 137, 347)" font-weight="400" fill="#eaeaea" opacity="1" x="137" y="350.5" font-family="Helvetica" font-size="10.330661669656758px" text-anchor="middle">CTO</text>
+<text transform="rotate(41.26044279488756, 561, 361)" font-weight="400" fill="#eaeaea" opacity="1" x="561" y="362.5" font-family="Raleway" font-size="3.125px" text-anchor="middle">Cloud architect</text>
+</svg>

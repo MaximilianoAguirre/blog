@@ -1,0 +1,27 @@
+/* Profile image height */
+.page__hero--overlay {
+    height: 400px;
+}
+
+#roles {
+    animation-name: spin;
+    animation-duration: 180s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 1000px) {
+    #roles{
+        width: 400px;
+    }
+}

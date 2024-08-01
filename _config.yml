@@ -16,11 +16,11 @@ footer:
     - label: Github
       url: https://github.com/MaximilianoAguirre
       icon: fa-brands fa-github
-    - label: "Web"
-      icon: "fas fa-fw fa-link"
-      url: "https://maximilianoaguirre.com"
+    - label: Website
+      icon: fas fa-fw fa-link
+      url: https://maximilianoaguirre.com
     - label: Instagram
-      url: https://www.instagram.com/maxii3548/
+      url: https://www.instagram.com/maxii3548
       icon: fa-brands fa-instagram
     - label: Mail
       url: mailto:maximiliano.aguirre@outlook.es
@@ -29,7 +29,7 @@ footer:
 author:
   name: *name
   avatar: /assets/profile.jpg
-  bio: Tech guy that loves extreme sports
+  bio: A tech guy that loves extreme sports
 
   links:
     - label: Linkedin
@@ -40,9 +40,9 @@ author:
       icon: fa-brands fa-github
     - label: Website
       icon: fas fa-fw fa-link
-      url: "https://maximilianoaguirre.com"
+      url: https://maximilianoaguirre.com
     - label: Instagram
-      url: https://www.instagram.com/maxii3548/
+      url: https://www.instagram.com/maxii3548
       icon: fa-brands fa-instagram
     - label: Email
       url: mailto:maximiliano.aguirre@outlook.es
