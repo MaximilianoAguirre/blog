@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "diagram_sources/**.drawio"
-      - .github/workflows/drawio.yml
+      - .github/workflows/drawio.yaml
 
 concurrency:
   group: drawio-export-${{ github.ref }}
