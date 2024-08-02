@@ -17,7 +17,7 @@ For simple use cases where no logic will run in the API Gateway, the http type i
 
 Let's first take a look at some definitions the service has, the interaction within the system is mainly done between a client, the service itself and a external service that will process the information (there are edge cases where the last party is not involved):
 
-![main]({{ site.url }}{{ site.baseurl }}/assets/images/url_shortener/main.svg)
+![main]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-main.svg)
 
 In each of the 4 steps represented with the arrows the API Gateway can execute basic mapping logic (trough the usage of the VTL templating language). This feature combined with the native integrations that this service offers with other AWS services, we can essentially create some apps without the need of a single line of code. Let's take a closer look to each part of this flow.
 
@@ -25,7 +25,7 @@ In each of the 4 steps represented with the arrows the API Gateway can execute b
 
 The first part of the flow represents the request sent by the client to the API:
 
-![method_request]({{ site.url }}{{ site.baseurl }}/assets/images/url_shortener/method_request.svg)
+![method_request]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-method_request.svg)
 
 This can represent a http request like:
 
@@ -47,7 +47,7 @@ At this stage, we configure our API to make a request to the external service. T
 - `HTTP_PROXY`: Integrate with an external generic http server as a proxy, no intervention is done to the request or response.
 - `MOCK`: Mock the response a server would do, useful for testing without incurring costs.
 
-![integration_request]({{ site.url }}{{ site.baseurl }}/assets/images/url_shortener/integration_request.svg)
+![integration_request]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-integration_request.svg)
 
 For non-proxy integration types, we will need to create the http request to be made to the external service, and we can use values we get from the original request done by the client. In proxy scenarios, the request is redirected as is to the server.
 

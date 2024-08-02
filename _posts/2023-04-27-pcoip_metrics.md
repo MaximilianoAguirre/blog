@@ -23,7 +23,7 @@ In this post we will explore a possible solution to programatically push these m
 
 The EC2 instances used as workstations run a PCoIP agent (standard or graphic depending on the use case) that [periodically saves this information into log files](https://help.teradici.com/s/article/1395). The strategy we will be using is to configure the [AWS CloudWatch Agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html) in workstations with [AWS SSM](https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html) to push this logs into CloudWatch Logs, apply a [CloudWatch Log Filter](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/MonitoringLogData.html) to send specific log lines to be processed by an [AWS lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) that will push the metrics to CloudWatch Metrics.
 
-![Architecture diagram]({{ site.url }}{{ site.baseurl }}/assets/images/pcoip_metrics/Diagram.svg)
+![Architecture diagram]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/pcoip_metrics-main.svg)
 
 ## Implementation
 
