@@ -58,5 +58,45 @@ For non-proxy integration types, we will need to create the http request to be m
 
 The third part of the process is called integration response, and it represents the API gateway receiving the response from the external server. This part of the process must map different responses given by the server to responses sent to the client, represented mainly by the status code and content type received from the server and sent to the client. Status codes usually gives us information about the processing the server did and its result, and the `Content-Type` header have information about the format the content of the response have.
 
+### Method response
+
+![method_response]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-method_response.svg)
+
+The last step of the process is actually returning the response to the client that started the request.
+
+## So, what is a URL shortener?
+
+Essentialy a URL shortener is a service that make aliases for long URLs into shorter ones. For example, if we want to share a link like `https://subdomain.example.com/path1/path2/path3/path4?var1=value1&var2=value2#fragment`, a shortener would allow you to create a short alias url like `https://domain.com/url1` that will respond a *301* when queried and redirect to the original url.
+
+### Get short URL
+
+With this in mind, if we maintain the information of the different aliases and the url they should redirect to, our server should only do a mapping of a GET request to a query to the database where that info is, and in the mapping back to the client, convert the response into a 301 response with the *Location* header set to the URL stored in the database. The following graph reflects how the API gateway could do this while requesting the information to a DynamoDB table:
+
+![dynamodb_redirect]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-dynamodb_redirect.svg)
+
+### Create new alias
+
+Ok, but how do we create entries in the DynamoDB table to begin with? Well, we can create a different interaction with our API Gateway that could be used for this purpose. To follow Rest APIs rules, we can have an endpoint that accepts a *POST* request with the required information in the body in order to create a new entity. The integration would look like:
+
+![dynamodb_create]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-dynamodb_create.svg)
+
+### List all aliases from the database
+
+If we continue with this logic, we could also add a different endpoint that lists all aliases created using the same kind of integration we have been using. This time, we need to perform a `scan` in the DynamoDB table, and following the same structure, it could be mapped to a *GET* request to the `/url` endpoint.
+
+
+![dynamodb_list]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-dynamodb_list.svg)
+
+
+
+
+
+
+
+
+
+
+
+<!-- References -->
 
 *[VTL]: Velocity Template Language
