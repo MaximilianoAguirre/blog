@@ -6,9 +6,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
-
+<!-- Custom per page css -->
 {% if page.page_css %}
   {% for stylesheet in page.page_css %}
     <link rel="stylesheet" href="{{ stylesheet | relative_url }}">

@@ -5,6 +5,9 @@ search: false
 
 @charset "utf-8";
 
+// Override max width
+$max-width: 2480px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -34,8 +37,13 @@ search: false
 }
 
 
-// Fonts
-$serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
+// Change padding added to main div
+@media (min-width: 1500px) { #main {
+    padding-left: 5em;
+    padding-right: 5em;
+} }
+
+@media (min-width: 1850px) { #main {
+    padding-left: 10em;
+    padding-right: 10em;
+} }
