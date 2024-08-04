@@ -11,7 +11,7 @@ tags:
     - hp anywhere
 ---
 
-[HP Anywhere](https://www.hp.com/us-en/solutions/digital-workspaces.html) is a product that allows companys to grant remote access to virtual workstations using the [PCoIP protocol](https://www.teradici.com/what-is-pcoip), which offers a secure, high-definition and highly responsive computing experience when working on a remote desktop that can be hosted both onprem or in the cloud.
+[HP Anyware](https://www.hp.com/us-en/solutions/digital-workspaces.html) is a product that allows companys to grant remote access to virtual workstations using the [PCoIP protocol](https://www.teradici.com/what-is-pcoip), which offers a secure, high-definition and highly responsive computing experience when working on a remote desktop that can be hosted both onprem or in the cloud.
 
 When this solution is used in AWS, there are many infrastructure patterns that can be followed to implement it, like [this doc](https://www.teradici.com/web-help/pcoip/anyware-architecture-guide/2022.07/connection_models/connection-models) shows.
 
