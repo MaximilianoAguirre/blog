@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 toc_label: Table of content
 
+excerpt: Release the full power of AWS API Gateway by implementing a URL shortener where all logic is in the Rest API.
+
 tags:
     - aws
     - terraform

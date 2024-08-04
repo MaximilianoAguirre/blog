@@ -1,9 +1,13 @@
 ---
 title: "PCoIP session metrics in AWS"
 date: 2023-04-27
+
 toc: true
 toc_sticky: true
 toc_label: Table of content
+
+excerpt: Expand the monitoring capabilities of HP Anyware VDI system using AWS to process usage metrics.
+
 tags:
     - aws
     - terraform

@@ -28,8 +28,9 @@ footer:
 
 author:
   name: *name
-  avatar: /assets/profile.jpg
+  avatar: /assets/images/profile.jpg
   bio: A tech guy that loves extreme sports
+  home: /profile
 
   links:
     - label: Linkedin
