@@ -6,6 +6,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: dark
 
 enable_copy_code_button: true
+logo: /assets/brain.svg
 
 footer:
   links:
@@ -29,24 +30,12 @@ author:
   name: *name
   avatar: /assets/images/profile.jpg
   bio: A tech guy that loves extreme sports
-  home: /profile
-
-  links:
-    - label: Linkedin
-      url: https://www.linkedin.com/in/maximilianoaguirre
-      icon: fa-brands fa-linkedin
-    - label: Github
-      url: https://github.com/MaximilianoAguirre
-      icon: fa-brands fa-github
-    - label: Website
-      icon: fas fa-fw fa-link
-      url: https://maximilianoaguirre.com
-    - label: Instagram
-      url: https://www.instagram.com/maxii3548
-      icon: fa-brands fa-instagram
-    - label: Email
-      url: mailto:maximiliano.aguirre@outlook.es
-      icon: fa-solid fa-envelope
+  home: /about-me
+  uri: https://maximilianoaguirre.com
+  email: maximiliano.aguirre@outlook.es
+  linkedin: maximilianoaguirre
+  instagram: maxii3548
+  github: MaximilianoAguirre
 
 include:
   - _pages

@@ -2,4 +2,4 @@ main:
   - title: "Posts"
     url: /
   - title: "About me"
-    url: /profile
+    url: /about-me

@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: splash
-permalink: /profile/
+permalink: /about-me
 excerpt: A tech guy that loves extreme sports
 
 header:
