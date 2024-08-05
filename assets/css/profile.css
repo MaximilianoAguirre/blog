@@ -3,6 +3,7 @@
     height: 400px;
 }
 
+/* Spin word cloud */
 #roles {
     animation-name: spin;
     animation-duration: 180s;

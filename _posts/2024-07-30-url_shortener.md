@@ -13,15 +13,15 @@ tags:
     - terraform
 ---
 
-AWS offers a managed service for API Gateway that comes in three flavours: http, rest and websocket. A common pattern of usage of these services are in combination with serverless services like Lambdas, DynamoDB tables, S3, etc. But the rest version of these service is more capable than most people think and using it just as a proxy to a lambda containing all the logic of execution is a waste of potential (and money).
+AWS offers a managed service for API Gateway that comes in three types: *http*, *rest* and *websocket*. A common pattern of usage of these services is in combination with serverless services like Lambdas, DynamoDB tables, S3, etc. But the rest version of these service is more capable than most people think and using it just as a proxy to a lambda containing all the logic of execution is a waste of potential (and money).
 
-For simple use cases where no logic will run in the API Gateway, the http type is better suited (and even using lambdas new http endpoint feature directly), but if you find yourself in a situation where logic to implement is not too complex, you should know some endpoints logic could be implemented directly with this service.
+For simple use cases where no logic will run in the API Gateway, the *http* type is better suited (and even using lambdas new [http endpoint feature](https://docs.aws.amazon.com/lambda/latest/dg/urls-configuration.html) directly), but if you find yourself in a situation where logic to implement is not too complex, you should know some endpoints logic could be implemented directly with this service.
 
 ## What can be done with an AWS Rest API Gateway?
 
 ![main]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-main.svg)
 
-Let's first take a look at some definitions the service has, the interaction within the system is mainly done between a client, the service itself and a external service that will process the information (there are edge cases where the last party is not involved):
+Let's first take a look at some definitions the service has, the interaction within the system is mainly done between a client, the service itself and a external service that will process the information (there are edge cases where the last party is not involved).
 
 In each of the 4 steps represented with the arrows the API Gateway can execute basic mapping logic (trough the usage of the VTL templating language). This feature combined with the native integrations that this service offers with other AWS services, we can essentially create some apps without the need of a single line of code. Let's take a closer look to each part of this flow.
 
@@ -29,9 +29,7 @@ In each of the 4 steps represented with the arrows the API Gateway can execute b
 
 ![method_request]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-method_request.svg)
 
-The first part of the flow represents the request sent by the client to the API:
-
-This can represent a http request like:
+The first part of the flow represents the request sent by the client to the API. Something that can look like:
 
 ```
 GET /users?page=1 HTTP/1.1
@@ -55,18 +53,36 @@ At this stage, we configure our API to make a request to the external service. T
 
 For non-proxy integration types, we will need to create the http request to be made to the external service, and we can use values we get from the original request done by the client. In proxy scenarios, the request is redirected as is to the server.
 
+In this example, we will use `AWS` integration type to talk to other AWS services using custom mapping of client requests. An example request to DynamoDB would look like:
+
+```
+POST /GetItem HTTP/1.1
+Host: arn:aws:apigateway:us-east-1:dynamodb:action
+Accept: application/json
+```
+
 ### Integration response
 
 ![integration_response]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-integration_response.svg)
 
+The third part of the process is called integration response, and it represents the API gateway receiving the response from the external server. This part of the process must map different responses given by the server to responses sent to the client, represented mainly by the status code and content type received from the server and sent to the client. Status codes usually gives us information about the processing the server did and its result, and the `Content-Type` header have information about the format the content of the response have. For example, a response from DynamoDB could be:
 
-The third part of the process is called integration response, and it represents the API gateway receiving the response from the external server. This part of the process must map different responses given by the server to responses sent to the client, represented mainly by the status code and content type received from the server and sent to the client. Status codes usually gives us information about the processing the server did and its result, and the `Content-Type` header have information about the format the content of the response have.
+```
+HTTP/1.1 200 OK
+Content-Type: application/json
+Body: {"Items": []}
+```
 
 ### Method response
 
 ![method_response]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-method_response.svg)
 
-The last step of the process is actually returning the response to the client that started the request.
+The last step of the process is actually returning the response to the client that started the request. Here we define which response codes, headers and (optionally) body will be sent to the client. In non-proxy scenarios, this data can be harcoded in the configuration or mapped from values obtained as part of the integration response. We can, for example, configure our API to give the following response:
+
+```
+HTTP/1.1 301 MOVED_PERMANENTLY
+Location: https://renaiss.io/about
+```
 
 ## So, what is a URL shortener?
 
@@ -91,13 +107,15 @@ With this in mind, if we maintain the information of the different aliases and t
 
 ![dynamodb_redirect]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-dynamodb_redirect.svg)
 
-As you can see, the API is redirecting the client request 
+As you can see, the `:id` sent by the client is used create the body sent to DynamoDB; and if DynamoDB request is successful, the parameter that comes in the response body `<long-url>` is mapped to the `Location` header (the response code of this endpoint will always be `301`).
 
 ### Create new alias
 
 Ok, but how do we create entries in the DynamoDB table to begin with? Well, we can create a different interaction with our API Gateway that could be used for this purpose. To follow Rest APIs rules, we can have an endpoint that accepts a *POST* request with the required information in the body in order to create a new entity. The integration would look like:
 
 ![dynamodb_create]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-dynamodb_create.svg)
+
+Our API receive a `POST` request with information about the url to be created (id and the real long url). It then executes the creation of this record in DynamoDB, and if everything is correct, retrieves information about the created URL back to the client.
 
 ### List all aliases from the database
 
@@ -127,6 +145,8 @@ POST /website/:file
 The main endpoint of our API Gateway (`/`) will return the main html page of our frontend. It will be mapped to do a get to that file in s3, and map back the content with a 200 and the `Content-Type` mapped to the same header returned by the request to s3.
 
 ![s3_index]({{ site.url }}{{ site.baseurl }}/assets/images/diagrams/url_shortener-s3_index.svg)
+
+In this case we know that for this path we will always do the same request to s3, so we don't need to do any *integration request* mapping, we just need to get the body of the s3 response and give it back to the client.
 
 ### Get all frontend files
 
@@ -308,6 +328,15 @@ module "url_shortener" {
   name   = "url-shortener"
 }
 ```
+
+## Conclusions
+
+The Rest version of the AWS API Gateway is very powerful and it could even allow for a simple app to be embedded in its logic. Of course this is not optimal in many scenarios, and a proxy integration with a lambda will be easier to develop and maintain in most scenarios, but some use cases are valid for simple mappings and could be still integrated in "proxy" scenarios.
+
+Other integrations that can be useful (and you can explore) are:
+
+- Integrating with an AWS Step Function for a more complex flow of logic.
+- Execute a job with AWS Batch and use long polling to wait until a successful execution.
 
 <!-- References -->
 
