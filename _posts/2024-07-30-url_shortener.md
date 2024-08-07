@@ -323,9 +323,9 @@ Yes, I know, this seems more complex than necessary, but remember we are replaci
 The article was focused in the API Gateway configuration, but in a real scenario we will need to create and configure other resources as part of the solution, like the DynamoDB table, the S3 bucket and some IAM resources. For a complete functional example of this concept you can check a terraform module where I implement everything. The source code can be found [here](https://github.com/MaximilianoAguirre/terraform-aws-url-shortener), and you can use it like:
 
 ```hcl
-module "url_shortener" {
-  source = "git@github.com:MaximilianoAguirre/terraform-aws-url-shortener"
-  name   = "url-shortener"
+module "url-shortener" {
+  source  = "MaximilianoAguirre/url-shortener/aws"
+  version = "1.0.0"
 }
 ```
 
